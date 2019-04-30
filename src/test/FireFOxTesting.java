@@ -13,7 +13,7 @@ public class FireFOxTesting {
            driver.findElement(By.xpath("//input[@id='email']")).sendKeys("pankaj");
           driver.findElement(By.xpath("//input[@id='pass']")).sendKeys("jhsbd");
           driver.findElement(By.xpath("//input[@value='Log In']")).click();
-           // driver.close();
+            driver.close();
 	}
 
 }
