@@ -32,7 +32,7 @@ public class Firstseleniumtest {
 //		driver.manage().timeouts().implicitlyWait(40, TimeUnit.SECONDS);
 		/*
 		driver.findElement(By.cssSelector("a[id*='a-autoid-0-announce']")).click();
-		driver.findElement(By.xpath("//input[contains(@name,'email')]")).sendKeys("pankajdevgade@gmail.com");
+		driver.findElement(By.xpath("//input[contains(@name,'email')]")).sendKeys("abcd@gmail.com");
 		driver.findElement(By.cssSelector("input[id*='continue']")).click();
 		driver.findElement(By.cssSelector("input[type*='password']")).sendKeys("pankaj");
 		driver.findElement(By.cssSelector("input[type*='submit']")).click();
